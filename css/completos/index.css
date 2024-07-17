@@ -1,0 +1,756 @@
+.carousel-slider {
+    max-height: 520px; 
+}
+
+.img1 {
+    width: 200px;
+    height: 200px;
+    transition: all 0.5s;
+}
+
+.img1:hover {
+    transform: scale(1.3);
+}
+
+.sub-titulo {
+    color: #66bb6a !important;
+    font-size: 24px;
+}
+
+.parrafo {
+    font-size: 12px;
+    padding: 5px;
+    color: #566573;
+    text-align: justify;
+    padding: 5px;
+    margin: 5px;
+}
+
+.parrafo-titulo {
+    font-size: 24px;
+}
+
+.footer {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e0e0e0;
+}
+
+.marcas-icons {
+    color: #566573;
+    font-size: 10px;
+}
+
+.marcas-title {
+    font-size: 24px;
+}
+
+.contactenos {
+    padding: 35px !important;
+}
+
+.contactenos-whatsapp {
+    font-size: 20px;
+    margin: 10px;
+    transition: all .5s;
+}
+
+.contactenos-whatsapp:hover {
+    transform: scale(1.1);
+}
+
+.contactenos-icons {
+    margin: 20px;
+    font-size: 35px;
+}
+
+.whatsapp {
+    color: #00c853;
+    transition: all .5s;
+}
+
+.whatsapp:hover {
+    transform: scale(1.3);
+}
+
+.title-wisnetworks {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+
+.text-wisnetworks {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.img-all {
+    width: 300px;
+    height: 200px;
+}
+
+.img-cont-wisnetworks {
+    margin-top: 8%;
+    transform: all .10s;
+    width: 10px;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.title-parrafo {
+    font-size: 18px;
+    border-left: 3px solid #D7BF5C;
+    padding-left: 15px;
+    
+}
+
+.title-parrafo-n {
+    font-size: 25px;
+    border-left: 3px solid #D7BF5C;
+    padding-left: 15px;
+}
+
+.title-parrafo-red {
+    font-size: 18px;
+    border-left: 3px solid #d20032;
+    padding-left: 15px;
+}
+
+.panel-body {
+    color: white;
+}
+
+.panel-body-text {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.subtitulo {
+    font-weight: 500;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.img-bitdefender {
+    vertical-align: middle;
+}
+
+.title-bitdefender {
+    font-size: 15px;
+}
+
+.parrafo-bitdefender {
+    text-align: justify;
+    font-size: 14px;
+    color: #6E6E6E;
+}
+
+.img2-bitdefender {
+    width: 60%;
+    vertical-align: middle;
+}
+
+.border {
+    border-left: 1px #A9BCF5 solid;
+}
+
+.img3-bitdefender {
+    width: 200px;
+    vertical-align: middle;
+}
+
+.title-parrafo-blue {
+    font-size: 18px;
+    border-left: 3px solid #0A6CCB;
+    padding-left: 15px;
+}
+
+.title-all {
+    font-size: 18px;
+}
+
+.title-pisos {
+    font-size: 24px;
+}
+
+.borde {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e0e0e0;
+}
+
+.inline {
+    display: inline-block;
+    float: right;
+}
+
+.text-36 {
+    font-size: 36px;
+}
+
+.text-body {
+    text-align: justify;
+    font-size: 14px;
+}
+
+.title-parrafo-naranja {
+    font-size: 18px;
+    border-left: 3px solid #FF8000;
+    padding-left: 15px;
+}
+
+.parrafo-tablero {
+    text-align: justify;
+    font-size: 18px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.title-parrafo-agua-windows {
+    font-size: 18px;
+    border-left: 3px solid #00ADEF;
+    padding-left: 15px;
+}
+
+.img-all-2 {
+    width: 450px;
+    height: 200px;
+}
+
+.padding {
+    padding: 0;
+}
+
+.img-fondo {
+    width: 100%;
+    min-height: 700px;
+    background-image: url(../../almacenamiento/img/porque.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: inline-block;
+}
+
+.title-wdc {
+    font-size: 36px;
+    color: white;
+    padding: 1px;
+}
+
+.title-2 {
+    font-size: 30px;
+    color: white;
+}
+
+.img-fondo-contacto {
+    width: 100%;
+    min-height: 700px;
+    background-image: url(../../almacenamiento/img/contactenos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: inline-block;
+}
+
+.wrapper-input-contacto {
+    margin-top: -5px;
+}
+
+.input-contacto {
+    background: #FFF !important;
+    border-radius: 5px !important;
+    color: #333 !important;
+    margin-top: -10px !important;
+    padding-left: 10px !important;
+}
+
+.input-contacto::placeholder {
+    color: #999 !important;
+}
+
+.wrapper-select-contacto {
+    margin-top: -15px;
+    padding-right: 2px !important;
+}
+
+.wrapper-select-contacto .select-wrapper {
+    background: #FFF;
+    border-radius: 5px !important;
+    padding-left: 10px !important;
+}
+
+.input .input-field input {
+    color: #333 !important;
+}
+
+.wrapper-textarea-contacto {
+    margin-top: -5px;
+    padding-right: 2px !important;
+}
+
+.g-recaptcha {
+    display: inline-block;
+}
+
+.tex-contacto {
+    font-size: 18px;
+}
+
+.img-distribuidor {
+    width: 100%;
+    height: 400px;
+}
+
+.texto-distribuidor {
+    text-align: justify;
+    font-size: 21px;
+    margin: 60px;
+}
+
+.cuadro-distribuidor {
+    width: 100%;
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.linea-decoracion {
+    text-decoration: underline;
+    text-decoration-color: #BDBDBD;
+}
+
+.contenido blockquote {
+    border-left: 5px solid #1c8535;
+    width: 90%;
+}
+
+.contenido h1,
+blockquote {
+    display: inline-block;
+}
+
+.contenido h1 {
+    margin-right: 10px;
+    font-size: 36px;
+}
+
+.contenido blockquote:hover {
+    transition: all .6s;
+    background: #D5F5E3;
+}
+
+.lead {
+    font-size: 21px;
+}
+
+.titulo {
+    border-radius: 10px;
+    color: #3d9d50;
+    font-size: 3em;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.subtitulo {
+    font-size: 1.3em;
+}
+
+.subtitulos-pagos {
+    font-size: 1.5em;
+}
+
+.extra {
+    background: #3d9d50;
+    border: 2px solid #286331;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.8em;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    animation-name: extra;
+    animation-iteration-count: infinite;
+    animation-duration: 4s;
+}
+
+.subtitulo_contenido_b {
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px #3d9d50;
+    color: #3d9d50;
+    font-size: 1.3em;
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.numero_lista {
+    background: #3d9d50;
+    display: inline;
+    margin-right: 5px;
+    padding: 3px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+.title-parrafo-agua {
+    font-size: 14px;
+    border-left: 3px solid #3d9d50;
+    padding-left: 15px;
+}
+
+.text-body-pagos {
+    font-size: 15px;
+}
+
+.mapa {
+    width: 100%;
+    min-height: 600px;
+    background-image: url(../../almacenamiento/img/backgroundmapa.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.contenido2 p {
+    margin-left: 14%;
+    justify-content: center;
+}
+
+.contenido2 h1 {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.contenido2 i,
+h2 {
+    display: inline-block;
+    margin-right: 10%;
+}
+
+.contenido2 i {
+    font-size: 30px;
+}
+
+.imagenes_ca {
+    width: 150px;
+    height: 150px;
+}
+
+.img-all:hover {
+    transform: scale(.9);
+}
+
+.parrafo-inspur {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.title-parrafo-black {
+    font-size: 18px;
+    border-left: 3px solid #6E6E6E;
+    padding-left: 15px;
+    font-weight: 500;
+}
+
+.divider:hover {
+    background: #5cb85c;
+}
+
+.icon {
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    margin-bottom: 10px;
+    position: relative;
+}
+
+    .icon:hover {
+        color: black;
+        transition: all .2s;
+    }
+
+    .icon:hover .barra-marca-footer {
+        background: green;
+        width: 100%;
+    }
+
+.barra-marca-footer {
+    background: transparent;
+    bottom: 0;
+    height: 3px;
+    left: 0;
+    margin: auto;
+    right: 0;
+    position: absolute;
+    width: 50%;
+    transition: all .5s;
+}
+
+.telefono-footer:hover {
+    background: gray;
+}
+    .telefono-footer:hover span {
+        color: #FFF !important;
+    }
+
+.color {
+    color: #566573;
+    font-size: 13px;
+}
+
+.carousel-logos {
+    padding-top: 80px;
+}
+
+.padding-contacto {
+    padding: 80px;
+}
+
+.fondo-contactanos {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: auto !important;
+    margin-top: 80px;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 20px !important;
+}
+
+.input .input-field label {
+    color: #ECF0F1;
+}
+
+.input .input-field input {
+    color: #ECF0F1;
+}
+
+.fondo_pop_up {
+    background: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+    transition: all 0.15s;
+}
+
+.contenedor_pop_up {
+    height: auto;
+    position: absolute;
+    text-align: center;
+    top: 5%;
+}
+
+.contenedor_pop_up img {
+    max-width: 100%;
+}
+
+.contenedor_pop_up .btn_cerrar_popup {
+    box-shadow: 0px 0px 5px black;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    animation-name: btn_cerrar_popup;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.img-pop-up {
+    height: 550px;
+}
+
+@keyframes btn_cerrar_popup {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.icono_cerrar {
+    float: left;
+    margin-right: 10px;
+    transform: scale(2);
+}
+
+
+/*cliengo */
+
+.chat-whatsapp-wrapper {
+    background: #FFF;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, .2);
+    height: 450px;
+    left: 20px;
+    bottom: -450px;
+    position: fixed;
+    width: 300px;
+    z-index: 900;
+    transition: all .2s;
+}
+
+.titulo-chat-whatsapp {
+    background: #25D366;
+    border-radius: 5px 5px 0px 0px;
+    cursor: pointer;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.titulo-chat-whatsapp i:nth-child(1) {
+    font-size: 24px;
+    left: 20px;
+    position: absolute;
+}
+
+.titulo-chat-whatsapp i:nth-child(3) {
+    right: 20px;
+    position: absolute;
+}
+
+.contenido-chat-whatsapp {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+.contenido-chat-whatsapp .btn-flat {
+    background: #25D366 !important;
+}
+
+.btn-whatsapp {
+    background: #25D366 !important;
+    border-radius: 50%;
+    left: 20px;
+    bottom: 20px;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    position: fixed;
+    z-index: 2;
+}
+
+.chat-chatbot-wrapper {
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, .2);
+    height: 450px;
+    width: 300px;
+    position: fixed;
+    bottom: -450px;
+    right: 20px;
+    z-index: 900;
+    transition: all .2s;
+}
+
+.titulo-chatbot {
+    background: #03a9f4;
+    border-radius: 5px 5px 0px 0px;
+    cursor: pointer;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.titulo-chatbot i:nth-child(1) {
+    color: #25D366;
+    font-size: 18px;
+    left: 20px;
+    margin-top: 4px;
+    position: absolute;
+}
+
+.titulo-chatbot i:nth-child(3) {
+    right: 20px;
+    position: absolute;
+}
+
+.contenido-chat-chatbot {
+    height: 350px;
+    padding-bottom: 10px !important;
+    overflow-y: auto;
+}
+
+.nombre-bot {
+    color: #555;
+    font-size: 0.9em;
+    transform: translateY(10px);
+}
+
+.mensaje-bot {
+    background: #00aaff;
+    border-radius: 5px 5px 5px 0px;
+    margin-top: 10px;
+    padding-bottom: 5px !important;
+    padding-top: 5px !important;
+}
+
+.mensaje-cliente {
+    background: #bdbdbd;
+    border-radius: 5px 5px 0px 5px;
+    margin-top: 10px;
+    padding-bottom: 5px !important;
+    padding-top: 5px !important;
+    text-align: right;
+    word-break: break-all;
+}
+
+#enviar_mensaje {
+    width: 51.5px;
+}
+
+#enviar_mensaje i {
+    left: 0;
+    margin: auto;
+    right: 0;
+    position: absolute;
+    top: 0;
+    transition: all .5s;
+}
+
+.notificacion-chatbot {
+    background: red;
+    border-radius: 50%;
+    bottom: 60px;
+    font-size: 1em;
+    font-style: normal;
+    color: #FFF;
+    margin-top: -10px;
+    right: 20px;
+    padding: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    position: fixed;
+    z-index: 3;
+}
+
+.btn-chatbot {
+    background: #03a9f4 !important;
+    border-radius: 50%;
+    float: right;
+    right: 20px;
+    bottom: 20px;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    position: fixed;
+    z-index: 2;
+}
+
+@media (max-width: 600px) {
+    .chat-whatsapp-wrapper {
+        bottom: -100%;
+        height: 100%;
+        width: 100%;
+    }
+    .chat-chatbot-wrapper {
+        bottom: -100%;
+        height: 100%;
+        width: 100%;
+    }
+}

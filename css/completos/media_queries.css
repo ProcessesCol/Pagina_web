@@ -1,0 +1,257 @@
+@media only screen and (max-width: 1238px) {
+    .sub-titulo {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 1139px) {
+    .sub-titulo {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 1097px) {
+    .sub-titulo {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 1013px) {
+    .sub-titulo {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 1128px) {
+    .contactenos-whatsapp {
+        font-size: 15px;
+    }
+}
+
+/*@media only screen and (max-width: 483px) {
+    .brand-logo {
+        height: 100px;
+    }
+}
+
+@media only screen and (max-width: 441px) {
+    .brand-logo {
+        height: 80px;
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 356px) {
+    .brand-logo {
+        height: 60px;
+        margin-top: 15px;
+    }
+}*/
+
+@media only screen and (max-width: 1103px) {
+    .img1 {
+        width: 160px;
+        height: 160px;
+    }
+}
+
+@media only screen and (max-width: 361px) {
+    .img1 {
+        width: 120px;
+        height: 120px;
+    }
+    .carousel-slider {
+        height: 700px;
+    }
+}
+
+@media only screen and (max-width: 379px) {
+    .panel-body-text {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 728px) {
+    .img-pop-up {
+        height: 400px;
+    }
+}
+
+@media only screen and (max-width: 544px) {
+    .img-pop-up {
+        height: 320px;
+    }
+}
+
+@media only screen and (max-width: 438px) {
+    .img-pop-up {
+        height: 280px;
+    }
+}
+
+@media only screen and (max-width: 383px) {
+    .img-pop-up {
+        height: 200px;
+    }
+}
+
+@media (max-width: 992px) {
+    .sidenav-trigger {
+        margin-top: 1px !important;
+    }
+    .carousel-slider {
+        max-height: 259px;
+    }
+}
+
+@media (max-width: 600px) {
+    /*.sidenav-trigger {
+        margin-top: 25px !important;
+    }*/
+}
+
+@media (max-width: 600px) {
+    .carousel.carousel-slider {
+        max-height: 190px;
+    }
+}
+
+@media (max-width: 432px) {
+    .g-recaptcha {
+        max-width: 100%;
+        transform: scale(.8);
+    }
+}
+
+@media (max-width: 396px) {
+    .g-recaptcha {
+        transform: scale(.8) translateX(-20px);
+    }
+}
+
+@media (max-width: 384px) {
+    .g-recaptcha {
+        transform: scale(.8) translateX(-30px);
+    }
+}
+
+@media (max-width: 360px) {
+    .g-recaptcha {
+        transform: scale(.8) translateX(-40px);
+    }
+}
+
+@media (max-width: 320px) {
+    .g-recaptcha {
+        transform: scale(.8) translateX(-50px);
+    }
+}
+
+@media (max-width: 349px) {
+    .text-responsive {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 321px) {
+    .carousel.carousel-slider {
+        max-height: 100px;
+    }
+}
+
+@media (max-width: 741px) {
+    .text-res {
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 646px) {
+    .text-res {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 568px) {
+    .text-res {
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 1260px) {
+    .contenido2 .material-icons {
+        font-size: 20px;
+    }
+    .contenido2 .title-2 {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 1167px) {
+    .contenido2 .material-icons {
+        font-size: 20px;
+    }
+    .contenido2 .title-2 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 1072px) {
+    .contenido2 .material-icons {
+        font-size: 20px;
+    }
+    .contenido2 .title-2 {
+        font-size: 23px;
+    }
+}
+
+@media (max-width: 844px) {
+    .contenido2 .material-icons {
+        font-size: 15px;
+    }
+    .contenido2 .title-2 {
+        font-size: 21px;
+    }
+}
+
+@media (max-width: 659px) {
+    .contenido2 .material-icons {
+        font-size: 13px;
+    }
+    .contenido2 .title-2 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 663px) {
+    .contenido2 .material-icons {
+        font-size: 12px;
+    }
+    .contenido2 .title-2 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 547px) {
+    .contenido2 .material-icons {
+        font-size: 11px;
+    }
+    .contenido2 .title-2 {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 491px) {
+    .contenido2 .material-icons {
+        display: none;
+    }
+}
+
+@media (max-width: 992px) {
+    .navbar-menu {
+        height: 65px !important;
+    }
+    .brand-logo {
+        height: 60px;
+    }
+
+}
